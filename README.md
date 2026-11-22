@@ -1,4 +1,4 @@
-T# 🚦 Traffic Analyzer – Object Detection
+# 🚦 Traffic Analyzer – Object Detection
 
 A computer vision project that detects and counts vehicles in traffic images and videos using **YOLOv8**, then estimates traffic density (Low / Medium / High).
 
